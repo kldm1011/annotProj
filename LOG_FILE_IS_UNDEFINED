@@ -1,0 +1,21 @@
+2018-03-16 16:40:23.496  INFO 117040 --- [main] de.myDom.Main                            : Starting Main on ogitnb187 with PID 117040 (C:\Users\klinkmann\Desktop\annotProj\target\classes started by klinkmann in C:\Users\klinkmann\Desktop\annotProj)
+2018-03-16 16:40:23.592  INFO 117040 --- [main] de.myDom.Main                            : No active profile set, falling back to default profiles: default
+2018-03-16 16:40:23.706  INFO 117040 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4f638935: startup date [Fri Mar 16 16:40:23 CET 2018]; root of context hierarchy
+2018-03-16 16:40:24.935  INFO 117040 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-03-16 16:40:24.951  INFO 117040 --- [main] de.myDom.Main                            : Started Main in 1.918 seconds (JVM running for 4.145)
+2018-03-16 16:40:24.975  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 15ms
+2018-03-16 16:40:24.980  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 4ms
+2018-03-16 16:40:24.985  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 4ms
+2018-03-16 16:40:24.990  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 4ms
+2018-03-16 16:40:24.994  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 4ms
+2018-03-16 16:40:24.998  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 4ms
+2018-03-16 16:40:25.002  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 4ms
+2018-03-16 16:40:25.006  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 4ms
+2018-03-16 16:40:25.010  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 3ms
+2018-03-16 16:40:25.015  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : void de.myDom.Service.writePerson(Person) executed in 4ms
+2018-03-16 16:40:25.017  INFO 117040 --- [main] de.myDom.aspect.ExampleAspect            : Person de.myDom.Service.readPerson() executed in 2ms
+2018-03-16 16:40:25.018  INFO 117040 --- [main] de.myDom.Main                            : Person{name='Arno', auto=Auto{marke='BMW', model='325', ps=218}}
+2018-03-16 16:40:25.024  INFO 117040 --- [Thread-9] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@4f638935: startup date [Fri Mar 16 16:40:23 CET 2018]; root of context hierarchy
+2018-03-16 16:40:25.026  INFO 117040 --- [Thread-9] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-03-16 16:40:26.025  WARN 117040 --- [Thread-3] io.sentry.connection.AsyncConnection     : Graceful shutdown took too much time, forcing the shutdown.
+2018-03-16 16:40:26.025  WARN 117040 --- [Thread-3] io.sentry.connection.AsyncConnection     : 0 tasks failed to execute before shutdown.

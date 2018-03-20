@@ -1,0 +1,6 @@
+de\myDom\domain\Auto.class
+de\myDom\domain\Person.class
+de\myDom\Main.class
+de\myDom\annotation\LogExecutionTime.class
+de\myDom\aspect\ExampleAspect.class
+de\myDom\Service.class
